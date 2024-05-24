@@ -1,0 +1,13 @@
+{
+    "dependencies":{
+        "coldbox":"^7.3.0+16"
+    },
+    "installPaths":{
+        "coldbox":"cli/coldbox/"
+    },
+    "location":"",
+    "name":"QuickStart",
+    "scripts":{},
+    "slug":"quickstart",
+    "version":"1.0.0"
+}

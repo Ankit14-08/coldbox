@@ -1,0 +1,8 @@
+{
+    "name":"QuickStart",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}
